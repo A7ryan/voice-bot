@@ -1,0 +1,8 @@
+streamlit
+speech_recognition
+google.generativeai
+dotenv
+os
+json
+anthropic
+openai
