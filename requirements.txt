@@ -1,8 +1,6 @@
 streamlit
-speech_recognition
-google.generativeai
-dotenv
-os
-json
+SpeechRecognition
+google-generativeai
+python-dotenv
 anthropic
 openai
